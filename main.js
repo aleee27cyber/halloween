@@ -1,0 +1,8 @@
+// main.js - Sistema de la sala de servidores
+const ghostProtocol = "idle";
+
+function startServer() {
+  console.log("Servidor iniciado");
+}
+
+startServer();
