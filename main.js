@@ -6,3 +6,8 @@ function startServer() {
 }
 
 startServer();
+
+
+function checkAccess(user) {
+  return user === "admin";
+}
