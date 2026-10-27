@@ -1,5 +1,5 @@
 // main.js - Sistema de la sala de servidores
-const ghostProtocol = "idle";
+const ghostProtocol = "sanctuary: seal server room and block intruders";
 
 function startServer() {
   console.log("Servidor iniciado");
