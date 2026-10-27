@@ -1,9 +1,5 @@
 // main.js - Sistema de la sala de servidores
-<<<<<<< HEAD
-const ghostProtocol = "nightmare: release spectral entities";
-=======
 const ghostProtocol = "sanctuary: seal server room and block intruders";
->>>>>>> feature-sanctuary
 
 function startServer() {
   console.log("Servidor iniciado");
